@@ -9,16 +9,12 @@ The following guide outlines the steps to set up an STM32F769I-Disco project wit
 - [STM32CubeMX](https://www.st.com/en/development-tools/stm32cubemx.html)
 - [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html)
 
-## Clone Repositories
+## Download Repositories
 
-1. Clone the LVGL core repository:
-   ```bash
-   git clone https://github.com/lvgl/lvgl.git
-   ```
-2. Clone the STM32F769I-Disco port repository:
-   ```bash
-   git clone https://github.com/lvgl/lv_port_stm32f769_disco.git
-   ```
+1. Download the LVGL core repository:
+   [LVGL Repository](https://github.com/lvgl/lvgl)
+2. Download the STM32F769I-Disco port repository:
+   [LVGL STM32F769I-Disco Port Repository](https://github.com/lvgl/lv_port_stm32f769_disco)
 
 ## Project Configuration
 
@@ -102,7 +98,7 @@ Copy the following folder into your project's `Drivers` folder:
 
 ## Run LVGL Examples or Demos
 
-Browse the `lv_examples` and `lv_demos` folders and run an example, such as:
+Browse the `lv_examples` and `lv_demos` folders and run an example below init calls, such as:
 
 ```c
 lv_example_get_started_2();
