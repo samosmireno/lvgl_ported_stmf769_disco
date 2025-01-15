@@ -1,0 +1,2 @@
+../Drivers/hal_stm_lvgl/touchpad/touchpad.c:45:6:touchpad_init	16	static
+../Drivers/hal_stm_lvgl/touchpad/touchpad.c:58:13:touchpad_read_cb	16	static

@@ -1,0 +1,14 @@
+../Drivers/lvgl/src/others/sysmon/../../others/observer/../../core/../misc/../font/../draw/../misc/../stdlib/lv_string.h:73:20:lv_memzero	1
+../Drivers/lvgl/src/others/sysmon/../../others/observer/../../core/lv_obj_style.h:196:20:lv_obj_set_style_pad_all	1
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:63:6:lv_sysmon_builtin_init	1
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:73:6:lv_sysmon_builtin_deinit	1
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:80:12:lv_sysmon_create	3
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:100:6:lv_sysmon_show_performance	5
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:129:6:lv_sysmon_hide_performance	3
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:144:6:lv_sysmon_show_memory	5
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:166:6:lv_sysmon_hide_memory	3
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:185:13:perf_monitor_disp_event_cb	10
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:236:13:perf_update_timer_cb	6
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:282:13:perf_observer_cb	1
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:312:13:mem_update_timer_cb	1
+../Drivers/lvgl/src/others/sysmon/lv_sysmon.c:319:13:mem_observer_cb	1
